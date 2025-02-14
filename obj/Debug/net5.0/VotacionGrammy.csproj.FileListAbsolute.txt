@@ -1,0 +1,16 @@
+D:\adso\2894667\JohanDelgado\VotacionGrammy\bin\Debug\net5.0\VotacionGrammy.exe
+D:\adso\2894667\JohanDelgado\VotacionGrammy\bin\Debug\net5.0\VotacionGrammy.deps.json
+D:\adso\2894667\JohanDelgado\VotacionGrammy\bin\Debug\net5.0\VotacionGrammy.runtimeconfig.json
+D:\adso\2894667\JohanDelgado\VotacionGrammy\bin\Debug\net5.0\VotacionGrammy.runtimeconfig.dev.json
+D:\adso\2894667\JohanDelgado\VotacionGrammy\bin\Debug\net5.0\VotacionGrammy.dll
+D:\adso\2894667\JohanDelgado\VotacionGrammy\bin\Debug\net5.0\ref\VotacionGrammy.dll
+D:\adso\2894667\JohanDelgado\VotacionGrammy\bin\Debug\net5.0\VotacionGrammy.pdb
+D:\adso\2894667\JohanDelgado\VotacionGrammy\obj\Debug\net5.0\VotacionGrammy.csproj.AssemblyReference.cache
+D:\adso\2894667\JohanDelgado\VotacionGrammy\obj\Debug\net5.0\VotacionGrammy.GeneratedMSBuildEditorConfig.editorconfig
+D:\adso\2894667\JohanDelgado\VotacionGrammy\obj\Debug\net5.0\VotacionGrammy.AssemblyInfoInputs.cache
+D:\adso\2894667\JohanDelgado\VotacionGrammy\obj\Debug\net5.0\VotacionGrammy.AssemblyInfo.cs
+D:\adso\2894667\JohanDelgado\VotacionGrammy\obj\Debug\net5.0\VotacionGrammy.csproj.CoreCompileInputs.cache
+D:\adso\2894667\JohanDelgado\VotacionGrammy\obj\Debug\net5.0\VotacionGrammy.dll
+D:\adso\2894667\JohanDelgado\VotacionGrammy\obj\Debug\net5.0\ref\VotacionGrammy.dll
+D:\adso\2894667\JohanDelgado\VotacionGrammy\obj\Debug\net5.0\VotacionGrammy.pdb
+D:\adso\2894667\JohanDelgado\VotacionGrammy\obj\Debug\net5.0\VotacionGrammy.genruntimeconfig.cache
