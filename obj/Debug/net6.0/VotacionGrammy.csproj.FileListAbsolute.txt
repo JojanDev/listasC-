@@ -1,0 +1,15 @@
+D:\ADSO\2894667\C#\listasC-\bin\Debug\net6.0\VotacionGrammy.exe
+D:\ADSO\2894667\C#\listasC-\bin\Debug\net6.0\VotacionGrammy.deps.json
+D:\ADSO\2894667\C#\listasC-\bin\Debug\net6.0\VotacionGrammy.runtimeconfig.json
+D:\ADSO\2894667\C#\listasC-\bin\Debug\net6.0\VotacionGrammy.dll
+D:\ADSO\2894667\C#\listasC-\bin\Debug\net6.0\VotacionGrammy.pdb
+D:\ADSO\2894667\C#\listasC-\obj\Debug\net6.0\VotacionGrammy.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\2894667\C#\listasC-\obj\Debug\net6.0\VotacionGrammy.AssemblyInfoInputs.cache
+D:\ADSO\2894667\C#\listasC-\obj\Debug\net6.0\VotacionGrammy.AssemblyInfo.cs
+D:\ADSO\2894667\C#\listasC-\obj\Debug\net6.0\VotacionGrammy.csproj.CoreCompileInputs.cache
+D:\ADSO\2894667\C#\listasC-\obj\Debug\net6.0\VotacionGrammy.sourcelink.json
+D:\ADSO\2894667\C#\listasC-\obj\Debug\net6.0\VotacionGrammy.dll
+D:\ADSO\2894667\C#\listasC-\obj\Debug\net6.0\refint\VotacionGrammy.dll
+D:\ADSO\2894667\C#\listasC-\obj\Debug\net6.0\VotacionGrammy.pdb
+D:\ADSO\2894667\C#\listasC-\obj\Debug\net6.0\VotacionGrammy.genruntimeconfig.cache
+D:\ADSO\2894667\C#\listasC-\obj\Debug\net6.0\ref\VotacionGrammy.dll
